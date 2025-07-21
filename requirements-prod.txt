@@ -1,0 +1,8 @@
+# Production-safe (Rust-free) dependencies
+fastapi==0.103.1
+uvicorn==0.22.0
+motor==3.1.2
+pymongo==4.3.3
+pydantic==2.4.2
+python-dotenv==1.0.0
+# Removed: bcrypt, passlib, python-jose, email-validator, etc.
