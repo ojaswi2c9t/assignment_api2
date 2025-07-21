@@ -5,15 +5,6 @@
   <p>
     <strong>A modern e-commerce API built with FastAPI and MongoDB</strong>
   </p>
-  
-  <p>
-    <a href="#features">Features</a> •
-    <a href="#project-structure">Project Structure</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#docker-setup">Docker Setup</a> •
-    <a href="#api-documentation">API Documentation</a> •
-    <a href="#development">Development</a>
-  </p>
 </div>
 
 ## 🚀 Features
